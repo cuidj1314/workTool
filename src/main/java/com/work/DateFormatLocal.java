@@ -14,7 +14,7 @@ public class DateFormatLocal {
             // ADの日付（例：133086552081957971）
             String strDate1 = "11644570800000";
             // 日付
-            String strDate2 = "1969-12-31 11:00:00";
+            String strDate2 = "2022-09-27 11:00:00";
             System.out.println("出力日期：" + DateFormatLocal.MillisecondsToDate(strDate1));
             System.out.println("出力毫秒：" + DateFormatLocal.DateToMilliseconds(strDate2) + "0000");
         } catch (ParseException e) {
