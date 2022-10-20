@@ -1,4 +1,4 @@
-package com.work;
+package com.work.sha256;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

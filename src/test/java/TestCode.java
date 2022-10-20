@@ -1,4 +1,4 @@
-import com.work.Pbkdf2Sha256;
+import com.work.sha256.Pbkdf2Sha256;
 
 import java.io.IOException;
 public class TestCode {
